@@ -28,9 +28,7 @@ u{
 }
 
 img{
-  display: block;
-  width: 40%;
-  margin: auto;
+  justify-content: center;
 }
 
 h1{
